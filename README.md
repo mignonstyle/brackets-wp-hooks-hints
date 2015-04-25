@@ -28,12 +28,20 @@ WordPress Code Reference / [Hooks](https://developer.wordpress.org/reference/hoo
 
 Changelog
 --------------
+Ver 1.0.1
+* Add a new hooks of WordPress 4.2
+
 Ver 1.0.0
 * Initial release.
 * Add hooks of up to WordPress 4.1
 * Remove hooks of deprecated
 
 
-Copyright and License
+License
 --------------
-Copyright (c) 2015 [Mignon Style](http://mignonstyle.com/). Released under the [MIT License](LICENSE).
+Released under the [MIT License](LICENSE).
+
+
+Copyright
+--------------
+Copyright (c) 2015 [Mignon Style](http://mignonstyle.com/).
