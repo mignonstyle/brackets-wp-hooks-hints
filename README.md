@@ -28,6 +28,9 @@ WordPress Code Reference / [Hooks](https://developer.wordpress.org/reference/hoo
 
 Changelog
 --------------
+Ver 1.0.2
+* Add a new hooks of WordPress 4.3
+
 Ver 1.0.1
 * Add a new hooks of WordPress 4.2
 
